@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.umarxdev.me
+
+# Sitemaps
+Sitemap: https://www.umarxdev.me/sitemap.xml
